@@ -20,7 +20,7 @@
 
 # Key Insight
 
-# High-value Customer Identification:#
+# High-value Customer Identification:
    Segmented customers into low, mid, and high-value tiers, enabling targeted marketing and retention strategies.
 
 # Geographical Revenue Distribution:
