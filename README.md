@@ -20,16 +20,16 @@
 
 # Key Insight
 
-High-value Customer Identification: 
+# High-value Customer Identification:#
    Segmented customers into low, mid, and high-value tiers, enabling targeted marketing and retention strategies.
 
-Geographical Revenue Distribution:
+# Geographical Revenue Distribution:
   The UK contributed to 82.93% of total sales, indicating a strong regional focus that can guide localized campaigns and stock management.
 
-Top-Selling Products:
+# Top-Selling Products:
   Identified products like White Metal Lantern and Knitted Union Flag Hot Water Bottle, providing insight for inventory optimization and promotional efforts.
 
-Revenue Optimization: 
+# Revenue Optimization: 
   Helped define high-potential customer segments and product categories for future marketing and sales strategies. 
 
 
