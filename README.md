@@ -12,7 +12,7 @@ This project focuses on Customer Segmentation using RFM Analysis (Recency, Frequ
 
 ✅ Insights & Business Recommendations – Develop strategies to improve customer retention and increase engagement.
 
-✅ Visualizations & Reporting – Create Power BI dashboards & charts for easy interpretation of findings.
+✅ Visualizations & Reporting –  charts for easy interpretation of findings.
 
 
 # 📂 Dataset Overview
